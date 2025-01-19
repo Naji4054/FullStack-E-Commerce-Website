@@ -17,14 +17,28 @@ You can access the live project here: [E-Commerce Website](https://lebaba-e-comm
 - **Payment Integration**: Secure payment processing.
 
 ## Video Demonstrations
-To provide a visual walkthrough of the project features, the following videos are included:
-- **Admin Dashboard.mov**: Overview of admin functionalities.
-- **Cart Functionality.mov**: Demonstration of cart operations.
-- **Home Page.mov**: Walkthrough of the home page.
-- **Payment.mov**: Payment process demo.
-- **Register and Login.mov**: User registration and login process.
-- **Shop Page.mov**: Browsing products in the shop page.
-- **User Dashboard.mov**: Managing user account and orders.
+To provide a visual walkthrough of the project features, click on the thumbnails below to watch the demo videos:
+
+### Admin Dashboard
+[![Admin Dashboard](https://via.placeholder.com/300x200?text=Admin+Dashboard)](https://drive.google.com/file/d/1ZZHaVj575ddEcCgIcCCwx5beyiN-RZ3N/view?usp=drive_link)
+
+### Cart Functionality
+[![Cart Functionality](https://via.placeholder.com/300x200?text=Cart+Functionality)](https://drive.google.com/file/d/1kKvTFP-ERbhMd_IzN0662Y8hqzlKSJjq/view?usp=drive_link)
+
+### Home Page
+[![Home Page](https://via.placeholder.com/300x200?text=Home+Page)](https://drive.google.com/file/d/1azGUfw8hTdpy0oZiULeulN4RNHM2pgLA/view?usp=drive_link)
+
+### Payment
+[![Payment](https://via.placeholder.com/300x200?text=Payment)](https://drive.google.com/file/d/1Yrw3tYXPDhck6Q9wSJbyJVqLIGUTgkTg/view?usp=drive_link)
+
+### Register and Login
+[![Register and Login](https://via.placeholder.com/300x200?text=Register+and+Login)](https://drive.google.com/file/d/1UofSs00zMUw9XW2R9pZ1sf7pu58-cPiP/view?usp=drive_link)
+
+### Shop Page
+[![Shop Page](https://via.placeholder.com/300x200?text=Shop+Page)](https://drive.google.com/file/d/1cFbpPxSSdG2-_Y1_QHZdvur36N9ypxD9/view?usp=drive_link)
+
+### User Dashboard
+[![User Dashboard](https://via.placeholder.com/300x200?text=User+Dashboard)](https://drive.google.com/file/d/1QGKUfzX9mwf3FiXujjiwx0DTM1OZiR_0/view?usp=drive_link)
 
 ## Folder Structure
 The project repository includes the following structure:
