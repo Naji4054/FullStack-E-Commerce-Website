@@ -43,8 +43,8 @@ To provide a visual walkthrough of the project features, click on the thumbnails
 
 ## Folder Structure
 The project repository includes the following structure:
-- **Frontend**: Contains all frontend-related code and assets.
-- **Backend**: Backend services and APIs.
+- **Mern Frontend**: Contains all frontend-related code and assets.
+- **Mern Backend**: Backend services and APIs.
 - **Website Video**: Demonstration videos showcasing various features of the project.
 
 ## Deployment
