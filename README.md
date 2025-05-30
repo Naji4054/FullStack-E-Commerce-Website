@@ -1,4 +1,4 @@
-# FullStack E-Commerce Website
+# FullStack E-Commerce Website Demo
 
 ## Project Overview
 This project is a comprehensive **FullStack E-Commerce Website** designed to provide an intuitive shopping experience for users and robust management tools for administrators. It includes features like user registration, login, product browsing, cart management, and secure payment functionality. 
